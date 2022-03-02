@@ -4,8 +4,9 @@
 
 
 效果演示
-![image](https://user-images.githubusercontent.com/73827386/156325135-5492922b-0c89-4978-b5b8-d8ec9c194b44.png)
+![image](https://github.com/uiuing/NewYearFireworks/blob/main/effectDemonstration.gif)
 
+> 如果没有显示，可能是内容较大，请等待一下
 
 <br>
 <br>
