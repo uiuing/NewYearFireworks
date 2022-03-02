@@ -4,10 +4,8 @@
 
 
 效果演示
+https://pic.imgdb.cn/item/621f2c445baa1a80abcf8b8f.jpg
 
-![效果演示](https://img-blog.csdnimg.cn/img_convert/395d62c35f3bae2ee8a992d604e2e2f7.gif)
-
-> 如果没有显示，可能是内容较大，请等待一下
 
 <br>
 <br>
