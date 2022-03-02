@@ -5,7 +5,7 @@
 
 效果演示
 
-![效果演示](https://img-blog.csdnimg.cn/img_convert/395d62c35f3bae2ee8a992d604e2e2f7.gif#pic_center)
+![效果演示](https://img-blog.csdnimg.cn/img_convert/395d62c35f3bae2ee8a992d604e2e2f7.gif)
 
 > 如果没有显示，可能是内容较大，请等待一下
 
